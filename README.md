@@ -1,7 +1,6 @@
 ### Hi there, I'm Aoi Komiya.👋
 ### I love Anime, Manga, Galgame and programming.😄
 ### I'm learning Reverse Enginering and CTF.🤔
-### Farewell.
 
 <!--
 **Alizestl/alizestl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
