@@ -1,6 +1,9 @@
 ### Hi there, I'm Aoi Komiya.👋
 ### I love Anime, Manga, Galgame and programming.😄
 ### I'm learning Reverse Enginering and playing the CTF Game.🤔
+### I'm impressed by the Freedom kernel in Linux OS.
+
+![arch-chan](https://raw.githubusercontent.com/Alizestl/PicoGo/main/Arch_chan.jpg)
 
 <!--
 **Alizestl/alizestl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
