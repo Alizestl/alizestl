@@ -6,3 +6,5 @@
 ![arch-chan](https://raw.githubusercontent.com/Alizestl/PicoGo/main/Arch_chan.jpg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alizestl&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizest)](https://github.com/alizest/github-readme-stats)
