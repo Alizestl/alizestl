@@ -5,6 +5,11 @@
 
 ![arch-chan](https://raw.githubusercontent.com/Alizestl/PicoGo/main/Arch_chan.jpg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alizestl&show_icons=true&theme=prussian)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizest)](https://github.com/alizest/github-readme-stats)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=alizestl&show_icons=true&theme=prussian" />
+</a>
+<a height="170px" href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizestl&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5" />
+</a>
+</div>
