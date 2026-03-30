@@ -5,6 +5,6 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://raw.githubusercontent.com/Alizestl/PicoGo/main/Arch_chan.jpg" />
+  <img align="center" src="https://raw.githubusercontent.com/Alizestl/PicGo/main/pic/Arch_chan.jpg" />
 </a>
 </div>
