@@ -16,13 +16,10 @@
 
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=fff)
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=fff)
 
 **IDE & Editor**
 
 ![NeoVIM](https://img.shields.io/badge/-NeoVim-649047?style=flat-square&logo=neovim&logoColor=fff)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](#)
 
 **Browser & Terminal**
